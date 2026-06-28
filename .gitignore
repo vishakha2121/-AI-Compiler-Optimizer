@@ -15641,21 +15641,4 @@ test-output/
 coverage/
 htmlcov/
 
-# ============================================
-# ADDITIONAL BACKUP PATTERNS
-# ============================================
-
-# Any file ending with ~
-*~
-
-# Any file ending with .orig
-*.orig
-
-# Any file ending with .swp
-*.swp
-
-# ============================================
-# NOTE: Keep .env.example files!
-# ============================================
-!.env.example
-!.env.sample
+# 
