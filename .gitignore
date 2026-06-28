@@ -15403,39 +15403,4 @@ Temporary Items
 .apdisk
 
 # Windows
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
-*.stackdump
-[Dd]esktop.ini
-$RECYCLE.BIN/
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
-*.lnk
-
-# Linux
-*~
-
-# ============================================
-# ML / DATA SCIENCE SPECIFIC
-# ============================================
-
-# Jupyter
-.ipynb_checkpoints
-*.ipynb
-*.pynb
-
-# Data
-*.csv
-*.tsv
-*.parquet
-*.feather
-*.arrow
-
-# Models (large files)
-*.pth
 
